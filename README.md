@@ -52,6 +52,5 @@ A 2nd-year CS student passionate about Python, AI, and full-stack development. O
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tasneem-netcode&theme=midnight-purple)](https://git.io/streak-stats)
 
 ### ⚡ Fun Fact:
-I love chai ☕ and coding during late-night deep focus zones 🌙, late-night debugging, and reading about human behavior 🧠.
-
+I love chai ☕ and coding 
 
