@@ -1,56 +1,108 @@
+<!-- Tasneem Raza | Professional GitHub README -->
+
+<div align="center">
+
+# 👋 Hi, I’m **Tasneem Raza**  
+### 💻 Computer Science Student | Full-Stack Developer | AI Enthusiast  
+
+🌍 *Visakhapatnam, India*  
+📧 [tasneem78899@gmail.com](mailto:tasneem78899@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tasneem-raza-275b572b7) • [GitHub](https://github.com/Tasneem-netcode) • [Twitter](https://x.com/TasneemRaza322?t=ygmSK21Ys7hR7dfCWvHQuA&s=08)
 
 
-## 👋 Hi, I'm Tasneem!
-A 2nd-year CS student passionate about Python, AI, and full-stack development. On a journey to build impactful tech projects while documenting everything I learn. 🚀
+</div>
 
-### 🧠 Currently Learning:
-- Python fundamentals & automation
-- NumPy, Pandas, and Matplotlib
-- Django for web development
-- Deepening my problem solving , DSA with c++
-- Planning an AI-powered student platform
+---
 
- ## 🚀 Skills
+## 🌱 About Me
 
-**Languages:** Python, C++, HTML, CSS, JavaScript (learning), SQL  
-**Tools & Tech:** Git, GitHub, VS Code, Pandas, NumPy, Matplotlib  
-**Currently Exploring:** Django, AI integrations, Real-time apps, creative web design
+I’m a **Computer Science student** passionate about creating impactful and user-friendly digital experiences.  
+I enjoy bringing ideas to life through **code, design, and AI** — blending creativity with logic.  
 
-## 🚀 Skills
+💡 *Currently learning full-stack development, exploring AI integrations, and building real-world projects.*
 
+---
+
+## 🧠 What I Do
+
+- 🧩 Solve DSA problems in **C++**  
+- ⚙️ Build interactive and responsive **web apps**  
+- 🧠 Explore **Python libraries** for data and AI  
+- 🎨 Design UI/UX templates using **Figma** and **Wix Studio**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 👨‍💻 Programming & Logic  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 🌐 Web Development  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-FF69B4?style=for-the-badge&logo=responsive&logoColor=white)
 
+---
+
+### 🧠 Python Libraries  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=plotly&logoColor=white)
+
+---
+
+### 🗃️ Databases  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🧰 Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-202020?style=for-the-badge&logo=matplotlib&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-🧠 **Currently Exploring:** Django, AI integrations, real-time apps, and creative web design 🎨
+---
 
+### 🎨 Design & No-Code  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Wix Studio](https://img.shields.io/badge/Wix%20Studio-000?style=for-the-badge&logo=wix&logoColor=white)
 
-### 💼 Projects:
-- `Python_journey`: My learning journal in Python
-- Coming soon: AI-powered student platform 💡
+</div>
 
-### 📫 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/tasneem-raza-275b572b7/)
-- [Twitter](https://x.com/TasneemRaza322?t=2KmQQiE9oP4ybsyLB3qDhg&s=08)
-- Email: tasneem78899@gmail.com
+---
 
+## 🚀 Projects
 
-![Tasneem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tasneem-netcode&show_icons=true&theme=midnight-purple)
+🟣 **AI-Powered Student Platform** *(In Progress)*  
+> A smart platform for students to share textbooks, PYQs, and notes — with an AI assistant to help summarize and recommend content.  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasneem-netcode&layout=compact&theme=midnight-purple)
+🟢 **AI-Powered Notes Summarizer**  *(In Progress)
+> Built in Python to identify fish diseases from images — exploring image data analysis.    
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tasneem-netcode&theme=midnight-purple)](https://git.io/streak-stats)
+🔵 **JavaScript Projects**  
+> A collection of creative web apps to improve logic, DOM handling, and interactivity.  
 
-### ⚡ Fun Fact:
-I love chai ☕ and coding 
+---
 
+## 📊 GitHub Insights
+
+<div align="center">
+
+![Tasneem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tasneem-netcode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasneem-netcode&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## ☕ Fun Fact
+
+I’m powered by **chai**, curiosity, and creativity — always learning, always building. 💫  
+
+⭐ *“Code. Design. Build. Repeat.”*
