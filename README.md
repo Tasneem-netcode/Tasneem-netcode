@@ -47,10 +47,16 @@ I enjoy bringing ideas to life through **code, design, and AI** — blending cre
 
  <img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://skillicons.dev/icons?i=vscode,git,github" />
-<img src="https://skillicons.dev/icons?i=figma,wix,framer" />
-<img src="https://static.wixstatic.com/media/4e27f2_7e7c3b2b77d84a87a9cf8b97d2d5cf8b~mv2.png" alt="Wix Studio" width="50" height="50" />
+<img src="https://skillicons.dev/icons?i=figma" />
+
+<a href="https://www.wix.com/studio" target="_blank">
+    <img src="https://static.wixstatic.com/media/4e27f2_7e7c3b2b77d84a87a9cf8b97d2d5cf8b~mv2.png" alt="Wix Studio" width="50" />
+  </a>
   &nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Framer-logo.svg" alt="Framer" width="50" height="50" />
+  <a href="https://www.framer.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Framer-logo.svg" alt="Framer" width="50" />
+  </a>
+
 
 
 </div>
