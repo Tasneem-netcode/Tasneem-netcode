@@ -3,7 +3,9 @@
 <div align="center">
 
 # 👋 Hi, I’m **Tasneem Raza**  
-### 💻 Computer Science Student | Full-Stack Developer | AI Enthusiast  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=FF69B4&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Aspiring+Full-Stack+Developer;Python+Full-Stack+Development+Enthusiast;AI+Enthusiast" alt="Typing Animation"/>
+</h1>  
 
 🌍 *Visakhapatnam, India*  
 📧 [tasneem78899@gmail.com](mailto:tasneem78899@gmail.com)  
@@ -60,7 +62,7 @@ I enjoy bringing ideas to life through **code, design, and AI** — blending cre
 </a>
 &nbsp;
 <a href="https://www.framer.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Framer-logo.svg" height="45" alt="Framer" />
+  <img src="https://github.com/Tasneem-netcode/Tasneem-netcode/blob/main/readme-assets/MFmOCFlEnwFAS9IP2HbUEH68axo.png" height="45" alt="Framer" />
 </a>
 
 </div>
