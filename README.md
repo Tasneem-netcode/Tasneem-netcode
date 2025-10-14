@@ -36,34 +36,17 @@ I enjoy bringing ideas to life through **code, design, and AI** — blending cre
 
 <div align="center">
 
- 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
-
----
+ <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
   
-<img src="https://skillicons.dev/icons?i=html,css,regex" />
+  <img src="https://skillicons.dev/icons?i=html,css,regex" />
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-FF69B4?style=for-the-badge&logo=responsive&logoColor=white) 
 
----
-
- 
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
+ <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
 ![Seaborn](https://img.shields.io/badge/Seaborn-3C9A69?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
----
-
- 
-<img src="https://skillicons.dev/icons?i=mysql" />
-
----
-
-
+ <img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://skillicons.dev/icons?i=vscode,git,github" />
-
----
-
- 
 <img src="https://skillicons.dev/icons?i=figma,wix,framer" />
 
 </div>
