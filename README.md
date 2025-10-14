@@ -56,7 +56,7 @@ I enjoy bringing ideas to life through **code, design, and AI** — blending cre
 <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" height="45" />
 &nbsp;
 <a href="https://www.wix.com/studio" target="_blank">
-  <img src="https://static.wixstatic.com/media/4e27f2_7e7c3b2b77d84a87a9cf8b97d2d5cf8b~mv2.png" height="45" alt="Wix Studio" />
+  <img src="https://github.com/Tasneem-netcode/Tasneem-netcode/blob/main/readme-assets/channels4_profile.png" height="45" alt="Wix Studio" />
 </a>
 &nbsp;
 <a href="https://www.framer.com/" target="_blank">
