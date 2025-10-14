@@ -36,31 +36,34 @@ I enjoy bringing ideas to life through **code, design, and AI** — blending cre
 
 <div align="center">
 
- <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
-  
-  <img src="https://skillicons.dev/icons?i=html,css,regex" />
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-FF69B4?style=for-the-badge&logo=responsive&logoColor=white) 
+<!-- 💻 Languages -->
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,mysql" height="45" />  
+<br/>
 
- <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
-![Seaborn](https://img.shields.io/badge/Seaborn-3C9A69?style=for-the-badge&logo=seaborn&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<!-- 📊 Libraries -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="45" alt="NumPy" />
+&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="45" alt="Pandas" />
+&nbsp;
+<img src="https://matplotlib.org/_static/logo_light.svg" height="45" alt="Matplotlib" />
+&nbsp;
+<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="45" alt="Seaborn" />
+&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45" alt="Scikit-Learn" />
+<br/>
 
- <img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=vscode,git,github" />
-<img src="https://skillicons.dev/icons?i=figma" />
-
+<!-- 🛠️ Tools -->
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma" height="45" />
+&nbsp;
 <a href="https://www.wix.com/studio" target="_blank">
-    <img src="https://static.wixstatic.com/media/4e27f2_7e7c3b2b77d84a87a9cf8b97d2d5cf8b~mv2.png" alt="Wix Studio" width="50" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.framer.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Framer-logo.svg" alt="Framer" width="50" />
-  </a>
-
-
+  <img src="https://static.wixstatic.com/media/4e27f2_7e7c3b2b77d84a87a9cf8b97d2d5cf8b~mv2.png" height="45" alt="Wix Studio" />
+</a>
+&nbsp;
+<a href="https://www.framer.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Framer-logo.svg" height="45" alt="Framer" />
+</a>
 
 </div>
-
 ---
 
 ## 🚀 Projects
