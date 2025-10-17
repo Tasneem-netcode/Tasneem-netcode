@@ -9,7 +9,7 @@
 
 🌍 *Visakhapatnam, India*  
 📧 [tasneem78899@gmail.com](mailto:tasneem78899@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/tasneem-raza-275b572b7) • [GitHub](https://github.com/Tasneem-netcode) • [Twitter](https://x.com/TasneemRaza322?t=ygmSK21Ys7hR7dfCWvHQuA&s=08)
+🔗 [LinkedIn](https://www.linkedin.com/in/tasneem-raza-275b572b7) • [GitHub](https://github.com/Tasneem-netcode) • [Twitter](https://x.com/TasneemRaza322?t=ygmSK21Ys7hR7dfCWvHQuA&s=08) • [Medium](https://medium.com/@tasneem78899)
 
 
 </div>
