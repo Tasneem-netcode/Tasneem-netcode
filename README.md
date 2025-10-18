@@ -74,7 +74,7 @@ I enjoy bringing ideas to life through **code, design, and AI** — blending cre
 > A smart platform for students to share textbooks, PYQs, and notes — with an AI assistant to help summarize and recommend content.  
 
 🟢 **AI-Powered Notes Summarizer**  *(In Progress)
-> Built in Python to identify fish diseases from images — exploring image data analysis.    
+> Model that summarizes your notes and help you organize them.
 
 🔵 **JavaScript Projects**  
 > A collection of creative web apps to improve logic, DOM handling, and interactivity.  
