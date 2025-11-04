@@ -84,8 +84,7 @@ I enjoy bringing ideas to life through **code, design, and AI** — blending cre
 > A collection of creative web apps to improve logic, DOM handling, and interactivity.  
 
 ---
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tasneem-netcode&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasneem-netcode&layout=compact&theme=radical)
+
 
 ## 📊 GitHub Insights
 
@@ -94,9 +93,7 @@ I enjoy bringing ideas to life through **code, design, and AI** — blending cre
 ![Tasneem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tasneem-netcode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasneem-netcode&layout=compact&theme=tokyonight&hide_border=true)
 
-**My Recent Activity**
-
-![Tasneem's GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Tasneem-netcode&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Tasneem's GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Tasneem-netcode&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
