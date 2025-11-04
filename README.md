@@ -84,6 +84,8 @@ I enjoy bringing ideas to life through **code, design, and AI** — blending cre
 > A collection of creative web apps to improve logic, DOM handling, and interactivity.  
 
 ---
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tasneem-netcode&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tasneem-netcode&layout=compact&theme=radical)
 
 ## 📊 GitHub Insights
 
