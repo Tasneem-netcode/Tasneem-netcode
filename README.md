@@ -94,7 +94,7 @@ I enjoy bringing ideas to life through **code, design, and AI** — blending cre
 
 **My Recent Activity**
 
-[![Tasneem's GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Tasneem-netcode&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Tasneem's GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Tasneem-netcode&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
